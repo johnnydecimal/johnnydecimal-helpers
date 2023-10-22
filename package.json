@@ -1,0 +1,19 @@
+{
+  "name": "@johnnydecimal/johnnydecimal-helpers",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnnydecimal/johnnydecimal-helpers.git"
+  },
+  "author": "Johnny Noble",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnnydecimal/johnnydecimal-helpers/issues"
+  },
+  "homepage": "https://github.com/johnnydecimal/johnnydecimal-helpers#readme"
+}
